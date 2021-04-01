@@ -1,0 +1,14 @@
+https://localhost:44345/api/products
+https://localhost:44345/api/users
+https://localhost:44345/api/carts
+https://localhost:44345/api/cartitems
+https://localhost:44345/api/categories
+https://localhost:44345/api/orders
+https://localhost:44345/api/orderitems
+https://localhost:44345/api/payments
+https://localhost:44345/api/productcategories
+https://localhost:44345/api/productreviews
+https://localhost:44345/api/producttags
+https://localhost:44345/api/tags
+https://localhost:44345/api/userloginattempthistories
+https://localhost:44345/api/usersaddresses
